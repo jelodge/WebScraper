@@ -2,7 +2,7 @@
 
 ##### Abstract
 
-We set out to investigate whether there was a relationship between the geographical location of a job posting on a market-leading jobs board and its advertised salary, where salary information was available (a large proportion of salaries are not disclosed on such job postings).
+We set out to investigate whether there was a relationship between the geographical location of a job posting on a market-leading jobs board and its advertised salary, where salary information was available (a large proportion of salaries are not disclosed on such job postings). The full Jupyter Notebook of the code used for data collection, cleaning, EDA and modelling can be found [here](WebScraper.ipynb).
 
 Initially we tried to gauge the relationships between locations and salaries and found there to be strong evidence of meaningful and potentially predictable relationships amongst higher paying roles, but correctly predicting lower end salaries was much more difficult with the information we had available.
 
